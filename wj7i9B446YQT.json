@@ -1,0 +1,676 @@
+{
+  "Metadata": {
+    "version": "1.8.9",
+    "creationDate": "28.02.2024"
+  },
+  "AntiVelocity": {
+    "state": true,
+    "keyCode": 47,
+    "Mode*1": {
+      "value": "Vanilla"
+    },
+    "Alert*2": {
+      "value": "None"
+    }
+  },
+  "AntiBot": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Resolver"
+    }
+  },
+  "NoFall": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Vanilla"
+    }
+  },
+  "ClickGUI": {
+    "keyCode": 54
+  },
+  "AutoGroomer": {
+    "state": false,
+    "keyCode": 0
+  },
+  "AutoDisable": {
+    "state": true,
+    "keyCode": 0
+  },
+  "LongJump": {
+    "state": false,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Mush"
+    }
+  },
+  "AutoSoup": {
+    "state": true,
+    "keyCode": 0,
+    "DELAY*1": {
+      "value": 0.0
+    },
+    "HEALTH*2": {
+      "value": 3.5
+    }
+  },
+  "HUD": {
+    "state": true,
+    "keyCode": 0,
+    "Theme*1": {
+      "value": "Rainbow"
+    },
+    "Rainbow*2": {
+      "value": "Slow"
+    },
+    "R Strength*3": {
+      "value": "Normal"
+    },
+    "Top Left*4": {
+      "value": true
+    },
+    "FPS*5": {
+      "value": false
+    },
+    "Time*6": {
+      "value": true
+    },
+    "Ping*7": {
+      "value": true
+    },
+    "Coords*8": {
+      "value": true
+    },
+    "Custom Font*9": {
+      "value": true
+    },
+    "Alternative Font*10": {
+      "value": true
+    },
+    "r*11": {
+      "value": 255.0
+    },
+    "g*12": {
+      "value": 148.0
+    },
+    "b*13": {
+      "value": 0.0
+    },
+    "HUD": {
+      "watermarkText": "Skuur"
+    }
+  },
+  "Yes Anti Ass": {
+    "state": false,
+    "keyCode": 0
+  },
+  "ChestESP": {
+    "state": true,
+    "keyCode": 0,
+    "Color*1": {
+      "value": "Exhi"
+    },
+    "r*2": {
+      "value": 255.0
+    },
+    "g*3": {
+      "value": 255.0
+    },
+    "b*4": {
+      "value": 255.0
+    },
+    "Alpha*5": {
+      "value": 0.4
+    }
+  },
+  "InventoryManager": {
+    "state": false,
+    "keyCode": 0,
+    "InvOpen*1": {
+      "value": true
+    },
+    "SimulateInventory*2": {
+      "value": false
+    },
+    "NoMoveClicks*3": {
+      "value": false
+    },
+    "IgnoreVehicles*4": {
+      "value": false
+    },
+    "Hotbar*5": {
+      "value": true
+    },
+    "RandomSlot*6": {
+      "value": false
+    },
+    "Sort*7": {
+      "value": true
+    },
+    "SortSwords*8": {
+      "value": true
+    },
+    "SortFood*9": {
+      "value": true
+    },
+    "SortArchery*10": {
+      "value": true
+    },
+    "KeepEmpty*11": {
+      "value": true
+    }
+  },
+  "Bypass": {
+    "state": true,
+    "keyCode": 0,
+    "Check Ground*1": {
+      "value": false
+    },
+    "Debug*2": {
+      "value": false
+    }
+  },
+  "Crosshair": {
+    "state": true,
+    "keyCode": 0,
+    "Gap*1": {
+      "value": 2.0
+    },
+    "Size*2": {
+      "value": 8.4
+    },
+    "Width*3": {
+      "value": 0.25
+    },
+    "Sync with HUD*4": {
+      "value": false
+    }
+  },
+  "NoHurt": {
+    "state": true,
+    "keyCode": 0
+  },
+  "BedNuker": {
+    "state": true,
+    "keyCode": 0,
+    "Range*1": {
+      "value": 5.0
+    }
+  },
+  "Timer": {
+    "state": false,
+    "keyCode": 0,
+    "Speed*1": {
+      "value": 1.0
+    }
+  },
+  "Animations": {
+    "state": true,
+    "keyCode": 0,
+    "Block*1": {
+      "value": "Old Exhibition"
+    },
+    "Swing*2": {
+      "value": "Vanilla"
+    },
+    "scale*3": {
+      "value": 0.41
+    },
+    "x*4": {
+      "value": 0.63
+    },
+    "y*5": {
+      "value": -0.51
+    },
+    "z*6": {
+      "value": -0.71999998
+    }
+  },
+  "Health": {
+    "state": false,
+    "keyCode": 0
+  },
+  "2DTags": {
+    "state": false,
+    "keyCode": 0,
+    "Armor*1": {
+      "value": true
+    }
+  },
+  "AutoRegister": {
+    "state": false,
+    "keyCode": 0,
+    "MushGen*1": {
+      "value": false
+    },
+    "Mode*2": {
+      "value": "Mush"
+    }
+  },
+  "Brightness": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Potion"
+    }
+  },
+  "AutoArmor": {
+    "state": true,
+    "keyCode": 0,
+    "InvOpen*1": {
+      "value": false
+    },
+    "SimulateInventory*2": {
+      "value": true
+    },
+    "NoMove*3": {
+      "value": false
+    },
+    "Hotbar*4": {
+      "value": true
+    }
+  },
+  "AutoTool": {
+    "state": true,
+    "keyCode": 0
+  },
+  "Capes": {
+    "state": true,
+    "keyCode": 0,
+    "Color*1": {
+      "value": "HUD"
+    }
+  },
+  "Test": {
+    "state": true,
+    "keyCode": 0
+  },
+  "AutoSay": {
+    "state": false,
+    "keyCode": 0,
+    "Delay*1": {
+      "value": 1.0
+    },
+    "Message*2": {
+      "value": ""
+    }
+  },
+  "Spotify": {
+    "state": true,
+    "keyCode": 0,
+    "X*1": {
+      "value": 577.0
+    },
+    "Y*2": {
+      "value": 15.0
+    },
+    "Center*3": {
+      "value": true
+    },
+    "Announce*4": {
+      "value": true
+    },
+    "Notification*5": {
+      "value": true
+    }
+  },
+  "Inventory": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Vanilla"
+    }
+  },
+  "Sprint": {
+    "state": true,
+    "keyCode": 0,
+    "Legit*1": {
+      "value": true
+    }
+  },
+  "Blink": {
+    "state": false,
+    "keyCode": 0
+  },
+  "TabGUI": {
+    "state": false,
+    "keyCode": 0,
+    "oldtransparency*1": {
+      "value": true
+    },
+    "oldsize*2": {
+      "value": false
+    }
+  },
+  "AutoReport": {
+    "state": false,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Mush"
+    }
+  },
+  "MCF": {
+    "state": true,
+    "keyCode": 0
+  },
+  "AntiVanish": {
+    "state": false,
+    "keyCode": 0
+  },
+  "TargetHUD": {
+    "state": true,
+    "keyCode": 0
+  },
+  "Speed": {
+    "state": true,
+    "keyCode": 21,
+    "No Bobbing*1": {
+      "value": true
+    },
+    "Mode*2": {
+      "value": "Bhop"
+    }
+  },
+  "InventoryCleaner": {
+    "state": false,
+    "keyCode": 44,
+    "InvOpen*1": {
+      "value": false
+    },
+    "SimulateInventory*2": {
+      "value": false
+    },
+    "NoMoveClicks*3": {
+      "value": false
+    },
+    "IgnoreVehicles*4": {
+      "value": false
+    },
+    "Hotbar*5": {
+      "value": true
+    },
+    "RandomSlot*6": {
+      "value": false
+    },
+    "Sort*7": {
+      "value": true
+    }
+  },
+  "Radar": {
+    "state": true,
+    "keyCode": 0,
+    "Seen Color*1": {
+      "value": "Red"
+    },
+    "Unseen Color*2": {
+      "value": "Yellow"
+    },
+    "Scale*3": {
+      "value": 1.0
+    },
+    "X*4": {
+      "value": 151.5
+    },
+    "Y*5": {
+      "value": 1.0
+    },
+    "Size*6": {
+      "value": 95.0
+    },
+    "r*7": {
+      "value": 165.0
+    },
+    "g*8": {
+      "value": 92.0
+    },
+    "b*9": {
+      "value": 160.0
+    }
+  },
+  "Scaffold": {
+    "state": false,
+    "keyCode": 35
+  },
+  "Step": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Vanilla"
+    },
+    "Height*2": {
+      "value": 1.5
+    }
+  },
+  "Scoreboard": {
+    "state": false,
+    "keyCode": 0,
+    "Y-Pos*1": {
+      "value": 120.0
+    }
+  },
+  "NoSlowdown": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Vanilla"
+    }
+  },
+  "ChestStealer": {
+    "state": false,
+    "keyCode": 22,
+    "DelayOnFirst*1": {
+      "value": false
+    },
+    "TakeRandomized*2": {
+      "value": false
+    },
+    "OnlyItems*3": {
+      "value": false
+    },
+    "NoCompass*4": {
+      "value": false
+    },
+    "AutoClose*5": {
+      "value": true
+    },
+    "CloseOnFull*6": {
+      "value": true
+    },
+    "ChestTitle*7": {
+      "value": false
+    }
+  },
+  "Debug": {
+    "state": false,
+    "keyCode": 0
+  },
+  "TargetStrafe": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Adaptive"
+    },
+    "SpeedRange*2": {
+      "value": false
+    },
+    "Range*3": {
+      "value": 1.2
+    }
+  },
+  "KillSult": {
+    "state": true,
+    "keyCode": 0
+  },
+  "KillAura": {
+    "state": true,
+    "keyCode": 19,
+    "Mode*1": {
+      "value": "Multi"
+    },
+    "Click Mode*2": {
+      "value": "Normal"
+    },
+    "Range*3": {
+      "value": 3.5
+    },
+    "Through Walls*4": {
+      "value": true
+    },
+    "Block Mode*5": {
+      "value": "Vanilla"
+    },
+    "Keep Sprint*6": {
+      "value": true
+    },
+    "Indicators*7": {
+      "value": true
+    },
+    "Teams*8": {
+      "value": false
+    },
+    "Rotation Mode*9": {
+      "value": "Normal"
+    },
+    "Players*10": {
+      "value": true
+    },
+    "Mobs*11": {
+      "value": false
+    },
+    "Animals*12": {
+      "value": false
+    },
+    "Invisibles*13": {
+      "value": false
+    }
+  },
+  "SafeWalk": {
+    "state": false,
+    "keyCode": 0,
+    "Ground*1": {
+      "value": false
+    }
+  },
+  "RetardDetector": {
+    "state": false,
+    "keyCode": 0
+  },
+  "Weather": {
+    "state": true,
+    "keyCode": 0,
+    "Time*1": {
+      "value": 16000.0
+    }
+  },
+  "SessionInfo": {
+    "state": true,
+    "keyCode": 0
+  },
+  "Criticals": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Packet"
+    },
+    "Speed Check*2": {
+      "value": false
+    }
+  },
+  "MushHelper": {
+    "state": true,
+    "keyCode": 0,
+    "Bedwars Helper*1": {
+      "value": true
+    },
+    "Anti AFK*2": {
+      "value": true
+    },
+    "Anti Staff*3": {
+      "value": false
+    },
+    "Game Mode (Bedwars Helper)*4": {
+      "value": "Solo-Duplas"
+    }
+  },
+  "AutoSword": {
+    "state": false,
+    "keyCode": 0
+  },
+  "Friends": {
+    "state": true,
+    "keyCode": 0
+  },
+  "AutoPlay": {
+    "state": true,
+    "keyCode": 0,
+    "Mode*1": {
+      "value": "Mush"
+    },
+    "Mode*2": {
+      "value": "bwduplas"
+    }
+  },
+  "Fly": {
+    "state": false,
+    "keyCode": 33,
+    "No Bobbing*1": {
+      "value": true
+    },
+    "Mode*2": {
+      "value": "Vanilla"
+    },
+    "Enable Speed*3": {
+      "value": false
+    },
+    "Bypass New Checks (MushMC)*4": {
+      "value": false
+    },
+    "Speed*5": {
+      "value": 4.0
+    }
+  },
+  "2DESP": {
+    "state": true,
+    "keyCode": 0,
+    "Box Mode*1": {
+      "value": "Box"
+    },
+    "Box Color*2": {
+      "value": "White"
+    },
+    "HP Color*3": {
+      "value": "Brighter"
+    },
+    "Name Color*4": {
+      "value": "None"
+    },
+    "Ping*5": {
+      "value": false
+    },
+    "Armor*6": {
+      "value": false
+    },
+    "Items*7": {
+      "value": false
+    },
+    "Fractions*8": {
+      "value": true
+    },
+    "Custom Font*9": {
+      "value": false
+    },
+    "Old HP Display*10": {
+      "value": false
+    },
+    "Old Item Display*11": {
+      "value": false
+    },
+    "Distance Check*12": {
+      "value": true
+    },
+    "Fractions*13": {
+      "value": 10.0
+    }
+  }
+}
