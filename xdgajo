@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://kit.fontawesome.com/d0e578438c.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="css/banner-styles.css">
+    <link rel="stylesheet" type="text/css" href="css/iconochive.css">
+    <style>
+        a {
+            text-decoration: none;
+            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+            font-family: courier new, Courier, Monaco;
+            font-style: normal;
+            font-weight: 500;
+            font-size: 8pt;
+            z-index: 10;
+            color: #fff;
+        }
+        a:hover {
+            font-weight: 700;
+        }
+        body {
+            background-color: #000;
+            color: #fff;
+            margin: 0;
+        }
+        pre {
+            font-size: 8pt;
+            font-family: courier new, Courier, Monaco;
+            padding-top: 2.5%;
+            padding-left: .5%;
+            text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        }
+        .bruh {
+            font-size: 16pt;
+        }
+        .bruh:hover {
+            filter: drop-shadow(0px 0px 2px white);
+        }
+        .video-background {
+            background: #000;
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            z-index: -99;
+        }
+        .video-foreground, .video-background iframe {
+            width: 100vw;
+            height: 100vh;
+            transform: scale(1.055);
+            pointer-events: none;
+        }
+        .ytplayer {
+            pointer-events: none;
+        }
+    </style>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Filminho Gratis</title>
+    <link rel="icon" href="images/logo.png">
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Filminho Gratis">
+    <meta property="og:description" content="so entrar e assistir gajo.">
+    <meta name="author" content="Ant0ny">
+</head>
+<body>
+<script type="text/javascript">
+</script>
+<pre>
+<a href>Filme: Velozes & Furiosos 9 (Dublado) - 2021 - 1080p</a>
+Feito por Ant0ny
+
+<iframe name=Player "" src="https://sinalpublico.cc/player3/serverf5hlb.php?vid=VLZEFROSOS09DUBL" frameborder=0 height=400 scrolling=no width=640 allow="encrypted-media" allowFullScreen> </iframe>
+
+XD Gajo
+</pre>
+</body>
+</html>
